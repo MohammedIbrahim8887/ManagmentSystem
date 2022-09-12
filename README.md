@@ -4,3 +4,4 @@ Hotel Management System made with C++ mainly focusing on controling adminstrativ
 Focus here is to link the c++ file with a file system(CSV) to be exact.
 Creates Different CSV files depending on existance of file
 # Don't forget to update ur path
+![](https://github.com/MohammedIbrahim8887/ManagmentSystem/blob/main/how-to-start.gif)
